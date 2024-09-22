@@ -2,5 +2,6 @@
 node_modules/
 
 # Ignore environment variable files
-*.env
+/config/config.env  # If you're using config.env in config folder
+
 
