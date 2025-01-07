@@ -87,10 +87,10 @@ cd frontend
 npm install
 
 # Start the backend server
-npm run dev
+npm start
 
 # Start the frontend
-npm run frontend
+npm run dev
 
 🤝 Contributing
 
